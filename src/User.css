@@ -1,0 +1,34 @@
+.user {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.user-column {
+    flex: 1;
+    margin: 1rem;
+    
+    
+}
+
+.profile-icon {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    border: 2px solid black;
+    background-color: rgb(7, 126, 120);
+}
+
+.icon-char {
+    font-weight: 400;
+    color: white;
+}
+
+.user-head {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+    font-weight: bold;
+    font-size: 18px;
+}
